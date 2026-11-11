@@ -1,6 +1,15 @@
 # Glass for Fire TV
 
-![Glass home screen](docs/home.jpg)
+![Glass on a Fire TV Stick 4K Max: news with pictures, your stocks, weather and a world clock over a glass shelf of apps](docs/home.jpg)
+
+| | |
+|---|---|
+| ![The portfolio panel: today's move, a line for the day and each holding](docs/portfolio.jpg) | ![The ☰ panel: time, forecast, settings, sleep timer, recent apps](docs/menu.jpg) |
+| *Your portfolio, OK on the total in the top bar* | *The ☰ panel* |
+| ![Glass settings: news topics and their sources](docs/news-settings.jpg) | |
+| *News topics and sources, in Glass settings* | |
+
+<sub>Real screenshots from the TV. Dollar amounts and the city are blurred here; on the TV they show (or use "Hide amounts").</sub>
 
 A cleaner, faster Fire TV with a glassy big-screen home screen. Everything runs from your computer over
 Wi-Fi with `adb`; nothing is rooted, nothing is deleted, and `./glass.sh undo` puts it all back.
