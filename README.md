@@ -152,3 +152,7 @@ Right for 10 seconds) restores stock; nothing here touches `/system`.
 - [dumbtv](https://github.com/humblemuzzu/dumbtv) (MIT): the privacy settings keys and the Fire OS 8
   animator gotcha.
 - See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
+
+## License
+
+[MIT](LICENSE). Parts come from FireFrame, dumbtv and Free My TV (also MIT): see [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
