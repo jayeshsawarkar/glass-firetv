@@ -1,0 +1,8 @@
+# Private to your TV and your machine
+backups/
+key.jks
+*.keystore
+# Build output
+out/
+*.apk
+.DS_Store

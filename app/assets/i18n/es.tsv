@@ -1,0 +1,246 @@
+# Glass translations: English<TAB>es. Machine-made; corrections welcome.
+A Fire OS update turned {n} apps back on. To turn them off again: ./glass.sh debloat	Una actualización de Fire OS volvió a activar {n} apps. Para desactivarlas: ./glass.sh debloat
+All apps are back on Home	Todas las apps vuelven a estar en Inicio
+All given	Concedidos
+Amazon (original)	Amazon (original)
+Amazon home screen	Inicio de Amazon
+Amazon's home screen isn't available	El inicio de Amazon no está disponible
+Amazon's screensaver is back.	Vuelve el salvapantallas de Amazon.
+Apps you used in the last 12 hours. Up/down to pick one, OK to open it, ▶ to close it so it starts fresh next time.	Apps usadas en las últimas 12 horas. Arriba/abajo para elegir, OK para abrir, ▶ para cerrarla y que empiece de cero.
+Appstore	Appstore
+Appstore button	Botón de Appstore
+Automatic	Automático
+Back on: {n}. From your computer: ./glass.sh debloat	Activadas de nuevo: {n}. Desde tu ordenador: ./glass.sh debloat
+Back to New York	Volver a Nueva York
+Button {n}	Botón {n}
+Cartoons and anime	Dibujos animados y anime
+Change a button	Cambiar un botón
+Checking…	Comprobando…
+Choose what a button on the remote opens. Home, Back, Menu, the arrows, OK, play and volume can't be changed.	Elige qué abre un botón del mando. Inicio, Atrás, Menú, las flechas, OK, reproducir y volumen no se pueden cambiar.
+City	Ciudad
+City name	Nombre de la ciudad
+City set: {n}	Ciudad: {n}
+Clear	Despejado
+Cloudy	Nublado
+Continue	Continuar
+Continue Watching	Seguir viendo
+Continue watching	Seguir viendo
+Couldn't open {n}	No se pudo abrir {n}
+Couldn't read that photo	No se pudo leer esa foto
+Couldn't restore: {n}	No se pudo restaurar: {n}
+Couldn't search: is the TV online?	No se pudo buscar: ¿la TV tiene internet?
+Couldn't switch: {n}	No se pudo cambiar: {n}
+Dark	Oscuro
+Drizzle	Llovizna
+Finding new picks…	Buscando nuevas sugerencias…
+Fire TV settings	Ajustes de Fire TV
+Fog	Niebla
+Glass can switch Home, the screensaver and Now Playing, and list recent apps.	Glass puede cambiar Inicio, el salvapantallas y Reproduciendo, y listar apps recientes.
+Glass crashed 3 times in 5 minutes, so Home went back to Amazon. Switch it back when you're ready.	Glass falló 3 veces en 5 minutos, así que Inicio volvió a Amazon. Cámbialo cuando quieras.
+Glass is the screensaver. Fire OS may still show Amazon's after an update; switch again here.	Glass es el salvapantallas. Tras una actualización, Fire OS puede volver al de Amazon; cámbialo aquí otra vez.
+Glass settings	Ajustes de Glass
+Glass {n}	Glass {n}
+Here	Aquí
+Home now opens Amazon's home screen. Switch back here any time.	Inicio abre ahora el inicio de Amazon. Vuelve a cambiarlo aquí cuando quieras.
+Home now opens Glass.	Inicio abre ahora Glass.
+Home screen	Pantalla de inicio
+How many	Cuántas
+Included	Incluidos
+Keys and services	Claves y servicios
+Keys for Glass on your TV	Claves para Glass en tu TV
+Keys removed.	Claves eliminadas.
+Language	Idioma
+Leave a box empty to keep what the TV has. Keys stay on the TV.	Deja un campo vacío para conservar lo que tiene la TV. Las claves se quedan en la TV.
+Left out	Excluidos
+Light	Claro
+Light by day, dark by night	Claro de día, oscuro de noche
+Missing	Faltan
+Move with the arrows · OK when done · ☰ hides the app	Mueve con las flechas · OK al terminar · ☰ oculta la app
+New on your Plex	Nuevo en tu Plex
+New picks	Nuevas sugerencias
+Next wallpaper	Siguiente fondo
+No TMDB key	Sin clave de TMDB
+No apps opened recently.	No se abrieron apps recientemente.
+No city by that name.	No hay ninguna ciudad con ese nombre.
+Now Playing	Reproduciendo
+Now: {n}. Type a city and press OK on the keyboard, or type latitude, longitude.	Ahora: {n}. Escribe una ciudad y pulsa OK en el teclado, o escribe latitud, longitud.
+Off	No
+Off, and the permission is taken back.	Desactivado, y se retira el permiso.
+Off.	Desactivado.
+On	Sí
+On {n}	En {n}
+On · all still off	Sí · todas siguen desactivadas
+On · {n} back on	Sí · {n} activadas de nuevo
+On.	Activado.
+On. Apps that share what you're watching with Android show up above your apps.	Activado. Las apps que comparten lo que ves con Android aparecen encima de tus apps.
+Or type them with the remote:	O escríbelas con el mando:
+Partly cloudy	Parcialmente nublado
+Permissions from glass.sh	Permisos de glass.sh
+Pick one:	Elige una:
+Picks	Sugerencias
+Picks above your apps	Sugerencias encima de tus apps
+Picks from:	Sugerencias de:
+Picks need a free TMDB key: Keys and services.	Las sugerencias necesitan una clave gratuita de TMDB: Claves y servicios.
+Plex server address (https://….plex.direct:32400)	Dirección del servidor Plex (https://….plex.direct:32400)
+Plex server address (optional)	Dirección del servidor Plex (opcional)
+Plex token	Token de Plex
+Plex token (optional; a managed user's is safest)	Token de Plex (opcional; el de un usuario gestionado es lo más seguro)
+Press OK again to give this button back to Fire TV.	Pulsa OK otra vez para devolver este botón a Fire TV.
+Press OK again to remove every key from the TV.	Pulsa OK otra vez para borrar todas las claves de la TV.
+Press OK again: settings glass.sh changed go back, and Home goes to Amazon. Apps it turned off need the computer: ./glass.sh undo	Pulsa OK otra vez: los ajustes que cambió glass.sh vuelven atrás e Inicio pasa a Amazon. Las apps desactivadas necesitan el ordenador: ./glass.sh undo
+Press the button now…	Pulsa el botón ahora…
+Rain	Lluvia
+Rearrange apps	Reordenar apps
+Recent apps	Apps recientes
+Remote buttons	Botones del mando
+Remove all keys	Borrar todas las claves
+Restore settings	Restaurar ajustes
+Saved on the TV: {n}	Guardado en la TV: {n}
+Saved.	Guardado.
+Scan with your phone (same Wi-Fi), paste the keys and send. Open for 5 minutes, one send.	Escanea con el móvil (misma Wi-Fi), pega las claves y envía. Abierto 5 minutos, un solo envío.
+Screensaver	Salvapantallas
+Searching…	Buscando…
+Send to the TV	Enviar a la TV
+Settings	Ajustes
+Settings are back as they were and Home opens Amazon's home screen. For the apps: ./glass.sh undo	Los ajustes vuelven a estar como antes e Inicio abre el de Amazon. Para las apps: ./glass.sh undo
+Settings stays on Home	Ajustes se queda en Inicio
+Show hidden apps	Mostrar apps ocultas
+Sleep in {n} min	Apagado en {n} min
+Sleep timer	Temporizador de apagado
+Sleep timer: Off	Temporizador: no
+Sleep timer: {n} min	Temporizador: {n} min
+Snow	Nieve
+Status icons	Iconos de estado
+Sunrise	Amanecer
+Sunset	Atardecer
+Switch Home to Glass first: the buttons go through it.	Primero pon Glass como Inicio: los botones pasan por él.
+TMDB didn't accept that key.	TMDB no aceptó esa clave.
+TMDB key (for the picks)	Clave de TMDB (para las sugerencias)
+TMDB key (the short 32-character API Key is easiest)	Clave de TMDB (la API Key corta de 32 caracteres es la más fácil)
+Temperature	Temperatura
+That button can't be changed.	Ese botón no se puede cambiar.
+That key wasn't accepted.	Esa clave no fue aceptada.
+The Plex address must be your server's https://….plex.direct:32400 address.	La dirección de Plex debe ser la https://….plex.direct:32400 de tu servidor.
+The TV has no address on your network, so type the keys below.	La TV no tiene dirección en tu red, así que escribe las claves abajo.
+Theme	Tema
+This product uses the TMDB API but is not endorsed or certified by TMDB.	Este producto usa la API de TMDB pero no está respaldado ni certificado por TMDB.
+Thunderstorms	Tormentas
+Today	Hoy
+Trending titles, only from apps on this TV. A new handful every hour.	Títulos en tendencia, solo de apps de esta TV. Unos nuevos cada hora.
+Wallpaper set	Fondo aplicado
+Warn when Fire OS updates turn apps back on	Avisar si Fire OS reactiva apps al actualizarse
+Watchmode didn't accept that key.	Watchmode no aceptó esa clave.
+Watchmode key	Clave de Watchmode
+Watchmode key (optional: open a pick on its own page)	Clave de Watchmode (opcional: abre la sugerencia en su página)
+Weather on Home	El tiempo en Inicio
+What should this button open?	¿Qué debe abrir este botón?
+no ads, no tracking	sin anuncios, sin rastreo
+settings, Home	ajustes, Inicio
+{n} hidden. Bring it back from the ☰ panel.	{n} oculta. Recupérala desde el panel ☰.
+{n} min left	quedan {n} min
+{n} now opens	{n} ahora abre
+▶ Close	▶ Cerrar
+Movie	Película
+Show	Serie
+Run ./glass.sh install from your computer once: it gives Glass this permission.	Ejecuta ./glass.sh install desde tu ordenador una vez: le da este permiso a Glass.
+Couldn't get picks: {n}. Glass tries again in 5 minutes.	No se pudieron obtener sugerencias: {n}. Glass lo reintenta en 5 minutos.
+No trending titles on your apps right now. Glass tries again in 5 minutes.	No hay títulos en tendencia en tus apps ahora. Glass lo reintenta en 5 minutos.
+Now: {n}.	Ahora: {n}.
+For You	Para ti
+Explore	Explorar
+Movies	Películas
+Shows	Series
+Picks are off: Glass settings → Picks.	Las sugerencias están desactivadas: Ajustes de Glass → Sugerencias.
+News	Noticias
+topics	temas
+Movie and TV picks on Home	Sugerencias de cine y TV en Inicio
+Headlines with a picture and a short summary on Home, one tab per topic. OK on a story opens it in Silk.	Titulares con imagen y un breve resumen en Inicio, una pestaña por tema. OK en una noticia la abre en Silk.
+On Home	En Inicio
+Movie and TV picks	Sugerencias de cine y TV
+Topics (each one is a tab on Home):	Temas (cada uno es una pestaña en Inicio):
+Sources for this topic. A few stories from each one that's on, newest and most talked-about first.	Fuentes de este tema. Unas pocas noticias de cada una activa, las más recientes y comentadas primero.
+Show this topic on Home	Mostrar este tema en Inicio
+Sources:	Fuentes:
+Getting the news…	Cargando noticias…
+Couldn't get the news. Glass tries again in 5 minutes.	No se pudieron cargar las noticias. Glass lo reintenta en 5 minutos.
+Refresh the news	Actualizar noticias
+{n} min ago	hace {n} min
+{n} h ago	hace {n} h
+{n} days ago	hace {n} días
+Trending	Tendencias
+Tech	Tecnología
+AI	IA
+World	Mundo
+U.S.	EE. UU.
+Business	Economía
+Science	Ciencia
+Space	Espacio
+Health	Salud
+Sports	Deportes
+Entertainment	Entretenimiento
+Gaming	Videojuegos
+No holdings found. One per line: AAPL 10 1500	No se encontraron posiciones. Una por línea: AAPL 10 1500
+No price for {n}	Sin precio para {n}
+Finnhub didn't accept the key.	Finnhub no aceptó la clave.
+Couldn't reach Finnhub.	No se pudo conectar con Finnhub.
+Portfolio	Cartera
+today	hoy
+All time	Total
+Since {n}	Desde {n}
+Holding	Posición
+Price	Precio
+Value	Valor
+Total	Total
+Cash	Efectivo
+Prices from Finnhub	Precios de Finnhub
+updated {n}	actualizado {n}
+market open	mercado abierto
+market closed	mercado cerrado
+Add a free Finnhub key in Glass settings	Añade una clave gratuita de Finnhub en Ajustes de Glass
+Getting prices…	Obteniendo precios…
+Each day since {n}	Cada día desde {n}
+Finnhub didn't accept that key.	Finnhub no aceptó esa clave.
+holdings	posiciones
+Finnhub key (free, for live stock prices: finnhub.io)	Clave de Finnhub (gratis, para precios de acciones: finnhub.io)
+Holdings, one per line: symbol, shares, total cost. CASH for cash.	Posiciones, una por línea: símbolo, acciones, coste total. CASH para efectivo.
+Your stocks on Home: what they're worth, today, all time, and a bar for every day. Prices from Finnhub (a free key).	Tus acciones en Inicio: cuánto valen, hoy, en total y una barra por cada día. Precios de Finnhub (clave gratuita).
+Portfolio on Home	Cartera en Inicio
+Hide amounts (percentages only)	Ocultar importes (solo porcentajes)
+Finnhub key	Clave de Finnhub
+Edit holdings from your phone	Editar posiciones desde el móvil
+Holdings:	Posiciones:
+{n} shares	{n} acciones
+cost	coste
+Start the daily record over	Reiniciar el registro diario
+Press OK again to clear the record of past days.	Pulsa OK otra vez para borrar el registro de días anteriores.
+The record starts again today.	El registro empieza de nuevo hoy.
+Holdings updated	Posiciones actualizadas
+Couldn't read the holdings file	No se pudo leer el archivo de posiciones
+all	total
+On · nothing to show	Sí · nada que mostrar
+On. It shows first in the movie and TV picks (Glass settings → News → On Home).	Activado. Aparece primero en las sugerencias de cine y TV (Ajustes de Glass → Noticias → En Inicio).
+On, but there's nothing to show: on Fire TV, Netflix, Prime Video and the others don't share what you're watching with Android. It appears in the movie and TV picks if an app ever does.	Activado, pero no hay nada que mostrar: en Fire TV, Netflix, Prime Video y las demás no comparten con Android lo que ves. Aparecerá en las sugerencias si alguna app lo hace.
+World clock	Reloj mundial
+India	India
+London	Londres
+Paris	París
+Dubai	Dubái
+Singapore	Singapur
+Tokyo	Tokio
+Sydney	Sídney
+Los Angeles	Los Ángeles
+Chicago	Chicago
+New York	Nueva York
+Block ads and trackers (AdGuard DNS)	Bloquear anuncios y rastreadores (AdGuard DNS)
+On: ad and tracking addresses are blocked in every app. YouTube's own ads aren't. If a site or app stops loading, switch this off.	Activado: se bloquean las direcciones de anuncios y rastreo en todas las apps. Los anuncios de YouTube no. Si algo deja de cargar, desactívalo.
+Off: the TV looks up addresses the usual way again.	Desactivado: la TV vuelve a buscar direcciones de la forma habitual.
+Headphones and speakers	Auriculares y altavoces
+Paired headphones and speakers. OK connects one (and disconnects the one in use) or disconnects it.	Auriculares y altavoces emparejados. OK conecta uno (y desconecta el que está en uso) o lo desconecta.
+Connected	Conectado
+Not connected	No conectado
+Fire TV didn't allow that. Use Pair or manage devices below.	Fire TV no lo permitió. Usa Emparejar o gestionar dispositivos.
+Disconnecting…	Desconectando…
+Connecting… make sure it's on and nearby.	Conectando… comprueba que esté encendido y cerca.
+No headphones or speakers are paired yet.	Aún no hay auriculares ni altavoces emparejados.
+Pair or manage devices	Emparejar o gestionar dispositivos
+Couldn't open Fire TV's Bluetooth settings.	No se pudieron abrir los ajustes de Bluetooth de Fire TV.

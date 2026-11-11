@@ -1,0 +1,246 @@
+# Glass translations: English<TAB>hi. Machine-made; corrections welcome.
+A Fire OS update turned {n} apps back on. To turn them off again: ./glass.sh debloat	Fire OS अपडेट ने {n} ऐप फिर चालू कर दिए। उन्हें फिर बंद करने के लिए: ./glass.sh debloat
+All apps are back on Home	सभी ऐप होम पर वापस आ गए
+All given	सब मिल गईं
+Amazon (original)	Amazon (मूल)
+Amazon home screen	Amazon होम स्क्रीन
+Amazon's home screen isn't available	Amazon की होम स्क्रीन उपलब्ध नहीं है
+Amazon's screensaver is back.	Amazon का स्क्रीनसेवर वापस आ गया।
+Apps you used in the last 12 hours. Up/down to pick one, OK to open it, ▶ to close it so it starts fresh next time.	पिछले 12 घंटों में इस्तेमाल किए ऐप। ऊपर/नीचे से चुनें, OK से खोलें, ▶ से बंद करें ताकि अगली बार नए सिरे से खुले।
+Appstore	Appstore
+Appstore button	Appstore बटन
+Automatic	अपने-आप
+Back on: {n}. From your computer: ./glass.sh debloat	फिर चालू: {n}। कंप्यूटर से: ./glass.sh debloat
+Back to New York	वापस न्यूयॉर्क
+Button {n}	बटन {n}
+Cartoons and anime	कार्टून और एनीमे
+Change a button	बटन बदलें
+Checking…	जाँच हो रही है…
+Choose what a button on the remote opens. Home, Back, Menu, the arrows, OK, play and volume can't be changed.	चुनें कि रिमोट का बटन क्या खोले। होम, बैक, मेन्यू, तीर, OK, प्ले और वॉल्यूम नहीं बदले जा सकते।
+City	शहर
+City name	शहर का नाम
+City set: {n}	शहर: {n}
+Clear	साफ़
+Cloudy	बादल
+Continue	जारी रखें
+Continue Watching	देखना जारी रखें
+Continue watching	देखना जारी रखें
+Couldn't open {n}	{n} नहीं खुल सका
+Couldn't read that photo	वह फ़ोटो पढ़ी नहीं जा सकी
+Couldn't restore: {n}	वापस नहीं हो सका: {n}
+Couldn't search: is the TV online?	खोज नहीं हो सकी: क्या TV ऑनलाइन है?
+Couldn't switch: {n}	बदला नहीं जा सका: {n}
+Dark	गहरा
+Drizzle	बूँदाबाँदी
+Finding new picks…	नए सुझाव ढूँढ रहे हैं…
+Fire TV settings	Fire TV सेटिंग
+Fog	कोहरा
+Glass can switch Home, the screensaver and Now Playing, and list recent apps.	Glass होम, स्क्रीनसेवर और अभी चल रहा बदल सकता है, और हाल के ऐप दिखा सकता है।
+Glass crashed 3 times in 5 minutes, so Home went back to Amazon. Switch it back when you're ready.	Glass 5 मिनट में 3 बार बंद हुआ, इसलिए होम Amazon पर लौट गया। तैयार हों तो वापस बदलें।
+Glass is the screensaver. Fire OS may still show Amazon's after an update; switch again here.	Glass अब स्क्रीनसेवर है। अपडेट के बाद Fire OS फिर Amazon का दिखा सकता है; तब यहाँ फिर बदलें।
+Glass settings	Glass सेटिंग
+Glass {n}	Glass {n}
+Here	यहाँ
+Home now opens Amazon's home screen. Switch back here any time.	होम अब Amazon की होम स्क्रीन खोलता है। कभी भी यहाँ से वापस बदलें।
+Home now opens Glass.	होम अब Glass खोलता है।
+Home screen	होम स्क्रीन
+How many	कितने
+Included	शामिल
+Keys and services	कुंजियाँ और सेवाएँ
+Keys for Glass on your TV	आपके TV पर Glass की कुंजियाँ
+Keys removed.	कुंजियाँ हटा दी गईं।
+Language	भाषा
+Leave a box empty to keep what the TV has. Keys stay on the TV.	TV में जो है उसे रखने के लिए खाना खाली छोड़ें। कुंजियाँ TV पर ही रहती हैं।
+Left out	बाहर
+Light	हल्का
+Light by day, dark by night	दिन में हल्का, रात में गहरा
+Missing	नहीं मिलीं
+Move with the arrows · OK when done · ☰ hides the app	तीरों से खिसकाएँ · हो जाए तो OK · ☰ ऐप छिपाता है
+New on your Plex	आपके Plex पर नया
+New picks	नए सुझाव
+Next wallpaper	अगला वॉलपेपर
+No TMDB key	TMDB कुंजी नहीं
+No apps opened recently.	हाल में कोई ऐप नहीं खोला गया।
+No city by that name.	इस नाम का कोई शहर नहीं।
+Now Playing	अभी चल रहा
+Now: {n}. Type a city and press OK on the keyboard, or type latitude, longitude.	अभी: {n}। शहर लिखकर कीबोर्ड पर OK दबाएँ, या अक्षांश, देशांतर लिखें।
+Off	बंद
+Off, and the permission is taken back.	बंद, और अनुमति वापस ले ली गई।
+Off.	बंद।
+On	चालू
+On {n}	{n} पर
+On · all still off	चालू · सब अब भी बंद
+On · {n} back on	चालू · {n} फिर चालू
+On.	चालू।
+On. Apps that share what you're watching with Android show up above your apps.	चालू। जो ऐप Android को बताते हैं कि आप क्या देख रहे हैं, वे आपके ऐप के ऊपर दिखेंगे।
+Or type them with the remote:	या रिमोट से लिखें:
+Partly cloudy	आंशिक बादल
+Permissions from glass.sh	glass.sh से अनुमतियाँ
+Pick one:	एक चुनें:
+Picks	सुझाव
+Picks above your apps	आपके ऐप के ऊपर सुझाव
+Picks from:	सुझाव यहाँ से:
+Picks need a free TMDB key: Keys and services.	सुझावों के लिए मुफ़्त TMDB कुंजी चाहिए: कुंजियाँ और सेवाएँ।
+Plex server address (https://….plex.direct:32400)	Plex सर्वर का पता (https://….plex.direct:32400)
+Plex server address (optional)	Plex सर्वर का पता (वैकल्पिक)
+Plex token	Plex टोकन
+Plex token (optional; a managed user's is safest)	Plex टोकन (वैकल्पिक; प्रबंधित उपयोगकर्ता का सबसे सुरक्षित)
+Press OK again to give this button back to Fire TV.	यह बटन Fire TV को लौटाने के लिए फिर OK दबाएँ।
+Press OK again to remove every key from the TV.	TV से सारी कुंजियाँ हटाने के लिए फिर OK दबाएँ।
+Press OK again: settings glass.sh changed go back, and Home goes to Amazon. Apps it turned off need the computer: ./glass.sh undo	फिर OK दबाएँ: glass.sh की बदली सेटिंग लौट जाएँगी और होम Amazon पर जाएगा। बंद किए ऐप के लिए कंप्यूटर चाहिए: ./glass.sh undo
+Press the button now…	अब बटन दबाएँ…
+Rain	बारिश
+Rearrange apps	ऐप क्रम बदलें
+Recent apps	हाल के ऐप
+Remote buttons	रिमोट के बटन
+Remove all keys	सारी कुंजियाँ हटाएँ
+Restore settings	सेटिंग लौटाएँ
+Saved on the TV: {n}	TV पर सहेजा: {n}
+Saved.	सहेजा गया।
+Scan with your phone (same Wi-Fi), paste the keys and send. Open for 5 minutes, one send.	फ़ोन से स्कैन करें (वही Wi-Fi), कुंजियाँ चिपकाएँ और भेजें। 5 मिनट तक खुला, एक बार भेजें।
+Screensaver	स्क्रीनसेवर
+Searching…	खोज रहे हैं…
+Send to the TV	TV पर भेजें
+Settings	सेटिंग
+Settings are back as they were and Home opens Amazon's home screen. For the apps: ./glass.sh undo	सेटिंग पहले जैसी हो गईं और होम Amazon की होम स्क्रीन खोलता है। ऐप के लिए: ./glass.sh undo
+Settings stays on Home	सेटिंग होम पर ही रहेगा
+Show hidden apps	छिपे ऐप दिखाएँ
+Sleep in {n} min	{n} मिनट में स्लीप
+Sleep timer	स्लीप टाइमर
+Sleep timer: Off	स्लीप टाइमर: बंद
+Sleep timer: {n} min	स्लीप टाइमर: {n} मिनट
+Snow	बर्फ़
+Status icons	स्थिति आइकन
+Sunrise	सूर्योदय
+Sunset	सूर्यास्त
+Switch Home to Glass first: the buttons go through it.	पहले होम को Glass पर करें: बटन उसी से होकर जाते हैं।
+TMDB didn't accept that key.	TMDB ने वह कुंजी नहीं मानी।
+TMDB key (for the picks)	TMDB कुंजी (सुझावों के लिए)
+TMDB key (the short 32-character API Key is easiest)	TMDB कुंजी (32 अक्षर वाली छोटी API Key सबसे आसान है)
+Temperature	तापमान
+That button can't be changed.	वह बटन नहीं बदला जा सकता।
+That key wasn't accepted.	वह कुंजी नहीं मानी गई।
+The Plex address must be your server's https://….plex.direct:32400 address.	Plex का पता आपके सर्वर का https://….plex.direct:32400 पता होना चाहिए।
+The TV has no address on your network, so type the keys below.	TV का आपके नेटवर्क पर कोई पता नहीं है, इसलिए कुंजियाँ नीचे लिखें।
+Theme	थीम
+This product uses the TMDB API but is not endorsed or certified by TMDB.	यह उत्पाद TMDB API का उपयोग करता है, पर TMDB द्वारा समर्थित या प्रमाणित नहीं है।
+Thunderstorms	आँधी-तूफ़ान
+Today	आज
+Trending titles, only from apps on this TV. A new handful every hour.	लोकप्रिय शीर्षक, सिर्फ़ इस TV के ऐप से। हर घंटे कुछ नए।
+Wallpaper set	वॉलपेपर लगा
+Warn when Fire OS updates turn apps back on	Fire OS अपडेट ऐप फिर चालू करे तो बताएँ
+Watchmode didn't accept that key.	Watchmode ने वह कुंजी नहीं मानी।
+Watchmode key	Watchmode कुंजी
+Watchmode key (optional: open a pick on its own page)	Watchmode कुंजी (वैकल्पिक: सुझाव उसके अपने पेज पर खोलें)
+Weather on Home	होम पर मौसम
+What should this button open?	यह बटन क्या खोले?
+no ads, no tracking	न विज्ञापन, न ट्रैकिंग
+settings, Home	सेटिंग, होम
+{n} hidden. Bring it back from the ☰ panel.	{n} छिपा। ☰ पैनल से वापस लाएँ।
+{n} min left	{n} मिनट बचे
+{n} now opens	{n} अब खोलता है
+▶ Close	▶ बंद करें
+Movie	फ़िल्म
+Show	शो
+Run ./glass.sh install from your computer once: it gives Glass this permission.	अपने कंप्यूटर से एक बार ./glass.sh install चलाएँ: यह Glass को यह अनुमति देता है।
+Couldn't get picks: {n}. Glass tries again in 5 minutes.	सुझाव नहीं मिल सके: {n}। Glass 5 मिनट में फिर कोशिश करेगा।
+No trending titles on your apps right now. Glass tries again in 5 minutes.	अभी आपके ऐप पर कोई लोकप्रिय शीर्षक नहीं। Glass 5 मिनट में फिर कोशिश करेगा।
+Now: {n}.	अभी: {n}।
+For You	आपके लिए
+Explore	खोजें
+Movies	फ़िल्में
+Shows	शो
+Picks are off: Glass settings → Picks.	सुझाव बंद हैं: Glass सेटिंग → सुझाव।
+News	समाचार
+topics	विषय
+Movie and TV picks on Home	होम पर फ़िल्म और TV सुझाव
+Headlines with a picture and a short summary on Home, one tab per topic. OK on a story opens it in Silk.	होम पर तस्वीर और छोटे सारांश के साथ सुर्ख़ियाँ, हर विषय का एक टैब। किसी ख़बर पर OK उसे Silk में खोलता है।
+On Home	होम पर
+Movie and TV picks	फ़िल्म और TV सुझाव
+Topics (each one is a tab on Home):	विषय (हर एक होम पर एक टैब है):
+Sources for this topic. A few stories from each one that's on, newest and most talked-about first.	इस विषय के स्रोत। हर चालू स्रोत से कुछ ख़बरें, सबसे नई और चर्चित पहले।
+Show this topic on Home	यह विषय होम पर दिखाएँ
+Sources:	स्रोत:
+Getting the news…	समाचार लोड हो रहे हैं…
+Couldn't get the news. Glass tries again in 5 minutes.	समाचार नहीं मिल सके। Glass 5 मिनट में फिर कोशिश करेगा।
+Refresh the news	समाचार ताज़ा करें
+{n} min ago	{n} मिनट पहले
+{n} h ago	{n} घंटे पहले
+{n} days ago	{n} दिन पहले
+Trending	ट्रेंडिंग
+Tech	टेक
+AI	AI
+World	दुनिया
+U.S.	अमेरिका
+Business	व्यापार
+Science	विज्ञान
+Space	अंतरिक्ष
+Health	स्वास्थ्य
+Sports	खेल
+Entertainment	मनोरंजन
+Gaming	गेमिंग
+No holdings found. One per line: AAPL 10 1500	कोई होल्डिंग नहीं मिली। हर पंक्ति में एक: AAPL 10 1500
+No price for {n}	{n} का भाव नहीं मिला
+Finnhub didn't accept the key.	Finnhub ने कुंजी नहीं मानी।
+Couldn't reach Finnhub.	Finnhub से जुड़ नहीं सके।
+Portfolio	पोर्टफ़ोलियो
+today	आज
+All time	कुल
+Since {n}	{n} से
+Holding	होल्डिंग
+Price	भाव
+Value	मूल्य
+Total	कुल
+Cash	नकद
+Prices from Finnhub	भाव Finnhub से
+updated {n}	{n} पर अपडेट
+market open	बाज़ार खुला
+market closed	बाज़ार बंद
+Add a free Finnhub key in Glass settings	Glass सेटिंग में मुफ़्त Finnhub कुंजी जोड़ें
+Getting prices…	भाव लाए जा रहे हैं…
+Each day since {n}	{n} से हर दिन
+Finnhub didn't accept that key.	Finnhub ने वह कुंजी नहीं मानी।
+holdings	होल्डिंग
+Finnhub key (free, for live stock prices: finnhub.io)	Finnhub कुंजी (मुफ़्त, लाइव भाव के लिए: finnhub.io)
+Holdings, one per line: symbol, shares, total cost. CASH for cash.	होल्डिंग, हर पंक्ति में एक: सिंबल, शेयर, कुल लागत। नकद के लिए CASH।
+Your stocks on Home: what they're worth, today, all time, and a bar for every day. Prices from Finnhub (a free key).	होम पर आपके शेयर: अभी कितने के हैं, आज, कुल, और हर दिन की एक पट्टी। भाव Finnhub से (मुफ़्त कुंजी)।
+Portfolio on Home	होम पर पोर्टफ़ोलियो
+Hide amounts (percentages only)	रकम छिपाएँ (सिर्फ़ प्रतिशत)
+Finnhub key	Finnhub कुंजी
+Edit holdings from your phone	फ़ोन से होल्डिंग बदलें
+Holdings:	होल्डिंग:
+{n} shares	{n} शेयर
+cost	लागत
+Start the daily record over	दैनिक रिकॉर्ड फिर से शुरू करें
+Press OK again to clear the record of past days.	पिछले दिनों का रिकॉर्ड मिटाने के लिए फिर OK दबाएँ।
+The record starts again today.	रिकॉर्ड आज से फिर शुरू होता है।
+Holdings updated	होल्डिंग अपडेट हुईं
+Couldn't read the holdings file	होल्डिंग फ़ाइल पढ़ी नहीं जा सकी
+all	कुल
+On · nothing to show	चालू · दिखाने को कुछ नहीं
+On. It shows first in the movie and TV picks (Glass settings → News → On Home).	चालू। यह फ़िल्म और TV सुझावों में सबसे पहले दिखता है (Glass सेटिंग → समाचार → होम पर)।
+On, but there's nothing to show: on Fire TV, Netflix, Prime Video and the others don't share what you're watching with Android. It appears in the movie and TV picks if an app ever does.	चालू, पर दिखाने को कुछ नहीं: Fire TV पर Netflix, Prime Video और बाकी ऐप Android को नहीं बताते कि आप क्या देख रहे हैं। कोई ऐप बताए तो यह दिखेगा।
+World clock	विश्व घड़ी
+India	भारत
+London	लंदन
+Paris	पेरिस
+Dubai	दुबई
+Singapore	सिंगापुर
+Tokyo	टोक्यो
+Sydney	सिडनी
+Los Angeles	लॉस एंजेलिस
+Chicago	शिकागो
+New York	न्यूयॉर्क
+Block ads and trackers (AdGuard DNS)	विज्ञापन और ट्रैकर रोकें (AdGuard DNS)
+On: ad and tracking addresses are blocked in every app. YouTube's own ads aren't. If a site or app stops loading, switch this off.	चालू: हर ऐप में विज्ञापन और ट्रैकिंग पते रोके जाते हैं। YouTube के अपने विज्ञापन नहीं। कुछ लोड न हो तो इसे बंद करें।
+Off: the TV looks up addresses the usual way again.	बंद: TV फिर से सामान्य तरीके से पते ढूँढता है।
+Headphones and speakers	हेडफ़ोन और स्पीकर
+Paired headphones and speakers. OK connects one (and disconnects the one in use) or disconnects it.	जोड़े गए हेडफ़ोन और स्पीकर। OK से कोई जोड़ें (और चल रहा हटाएँ) या उसे हटाएँ।
+Connected	जुड़ा है
+Not connected	नहीं जुड़ा
+Fire TV didn't allow that. Use Pair or manage devices below.	Fire TV ने अनुमति नहीं दी। नीचे डिवाइस जोड़ें या प्रबंधित करें।
+Disconnecting…	हटाया जा रहा है…
+Connecting… make sure it's on and nearby.	जोड़ा जा रहा है… देखें कि वह चालू और पास में है।
+No headphones or speakers are paired yet.	अभी कोई हेडफ़ोन या स्पीकर जोड़ा नहीं गया।
+Pair or manage devices	डिवाइस जोड़ें या प्रबंधित करें
+Couldn't open Fire TV's Bluetooth settings.	Fire TV की Bluetooth सेटिंग नहीं खुल सकी।

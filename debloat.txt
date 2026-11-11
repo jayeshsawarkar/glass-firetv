@@ -1,0 +1,54 @@
+# What ./glass.sh debloat turns off: Amazon ads, tracking, telemetry and extras nobody asked for.
+# Lines are: package  # what it is. Apps are disabled, never deleted; ./glass.sh undo turns them back on.
+# Taken from FireFrame's "safe" group (https://github.com/dyascj/FireFrame, MIT), checked on Fire OS 7.7.
+# Packages missing on your TV are skipped. Packages Amazon protects can't be disabled without root;
+# for those, glass.sh stops them running in the background instead.
+#
+# Deliberately NOT here (kept working): Alexa and the voice button, Prime Video, Live TV, Amazon Music/
+# Photos/Silk, screen mirroring, system updates, the Amazon launcher, Settings, the keyboard, Bluetooth
+# and the remote, the Appstore, sign-in, WebView, casting from phone apps, parental controls.
+
+com.amazon.kso.blackbird # ads service (Kindle Special Offers)
+com.amazon.ftvads.deeplinking # opens ads when clicked
+com.amazon.tv.acr # automatic content recognition: tracks what's on screen
+com.amazon.media.recommendations # recommendation rows for Amazon's home screen
+com.amazon.sneakpeek # autoplaying previews on Amazon's home screen
+com.amazon.shoptv.client # Amazon shopping on TV
+com.amazon.shoptv.firetv.client # Amazon shopping on TV
+com.amazon.tigris # Subscription Central upsells
+com.amazon.tv.easyupgrade # "upgrade your device" promos
+com.amazon.hedwig # News
+com.amazon.minitv.android.app # Amazon miniTV
+com.amazon.device.crashmanager # crash reports
+com.amazon.dp.logger # device logging
+com.amazon.logan # log upload
+com.amazon.device.logmanager # log manager
+com.amazon.client.metrics # usage metrics
+com.amazon.tv.fw.metrics # framework metrics
+com.amazon.wirelessmetrics.service # Wi-Fi metrics
+com.amazon.perfc # performance data collection
+com.amazon.perfcollection # performance data collection
+com.amazon.wifilocker # saves your Wi-Fi passwords to Amazon
+com.amazon.d3 # store demo mode daemon
+com.amazon.gamehub # game hub
+com.amazon.spiderpork # Amazon Luna cloud gaming
+com.amazon.tahoe # Amazon Kids
+com.amazon.tmm.tutorial # tutorials
+com.amazon.storm.lightning.tutorial # tutorials
+com.amazon.tv.releasenotes # release notes
+com.amazon.tv.csapp # help videos
+com.amazon.ods.kindleconnect # Mayday support screen sharing
+com.amazon.spotify.mediabrowserservice # Alexa's Spotify bridge (the Spotify app still works)
+com.amazon.brightdata.coralreef # "FREE relaxing coral reef screensaver"
+com.amazon.brightdata.jellyfish # jellyfish screensaver, same SDK
+
+# Added 2026-11-07 from CleanYourTV's list for this exact model and build
+# (github.com/Gathin23/cleanyourtv, examples/amazon-fire-tv-stick-4k-max-2021, MIT), tested there on two units.
+com.amazon.client.metrics.api # usage metrics API
+com.amazon.ceviche # data collection pipelines
+com.amazon.tv.developer.dataservice # personalisation data for third-party apps
+com.amazon.livedeviceservice # live device reporting
+com.amazon.privacypassservice # privacy pass token service
+com.amazon.hybridadidservice # advertising ID service
+com.amazon.providers.contentsupport # content feed for ad and recommendation rows
+com.amazon.uxnotification # pop-up notifications
